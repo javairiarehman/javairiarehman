@@ -1,14 +1,9 @@
-I am pursuing my Master’s in Computer Science with a focus on Information & Communication Systems at the University of Passau, Germany. My academic work strengthens my practical expertise by deepening my knowledge in distributed systems, networking, and databases directly aligning with my professional interests in DevOps, system administration, and secure infrastructure.
+Master’s student in Computer Science at the University of Passau, Germany, with interests in Machine Learning, Data Science, and distributed systems. I work primarily with Python to build data processing pipelines, develop machine learning models, and analyze complex datasets.
 
-I bring hands-on experience in managing 10+ Linux/Windows servers, orchestrating 20+ Docker containers, and automating deployments using GitLab CI/CD, Bash, and Python. Skilled in server migrations with zero downtime, I ensure infrastructure stability, scalability, and security through Nginx, VPN, and SSL configurations.
+My projects include large-scale vulnerability analysis using Random Forest models, graph-based system modeling, semantic data integration pipelines, and deep learning for human activity recognition. I enjoy turning raw data into meaningful insights and building practical ML-driven solutions.
 
-Beyond DevOps, I have strong ERP (Odoo, Flectra) experience, having supported 500+ users with IT operations, access management, and hardware/software setup. My work includes SaaS development from scratch, customer onboarding automation, and applying Agile practices for efficient delivery.
+Alongside my data science work, I bring hands-on experience with Linux systems, Docker containers, and CI/CD pipelines, which helps me develop and deploy reliable, scalable software systems.
 
-Key Strengths
-Linux and Windows Administration
-Docker, Git, GitLab CI/CD
-Cloud, Networking and Cybersecurity
-ERP Systems (Odoo, Flectra)
-Database Management (PostgreSQL, MySQL)
-Programming in Java, Python, Bash
-Languages: English (C1), German (A1–A2)
+Tech Stack: Python • SQL • Pandas • NumPy • Scikit-learn • NetworkX • Docker • Linux • Git • CI/CD • Matplotlib • Seaborn
+
+Languages: English (C1), German (A2)
